@@ -96,41 +96,6 @@ a {
   cursor: pointer;
 }
 
-.animation #icon {
-  height: 35px;
-  width: 35px;
-  margin-bottom:20px;
-  
-}
-
-
-.design #icon {
-  height: 35px;
-  width: 35px;
-  margin-bottom:20px;
-  
-}
-
-.business #icon {
-  height: 35px;
-  width: 35px;
-  margin-bottom:20px;
-  
-}
-
-.photography #icon {
-  height: 35px;
-  width: 35px;
-  margin-bottom:20px;
-  
-}
-
-.crypto #icon {
-  height: 35px;
-  width: 35px;
-  margin-bottom:20px;
-  
-}
 
 
 /* Buttons */
